@@ -1,6 +1,6 @@
 #main {
   font-size: 1.2em;
-  background-color: rgba(161, 226, 210, 0.5); 
+  background-color: rgba(81, 192, 243, 0.562); 
   font-family: "Tw Cen MT", 'Verdana', sans-serif;
 }
 .text-lg {
@@ -11,7 +11,7 @@
 }
 
 .imgBorder {
-  border-right: 3px solid rgb(194, 188, 188);
+  border-right: 3px solid rgb(0, 0, 0);
 }
 
 .carousel-item.active,
@@ -20,13 +20,10 @@
   display: block;
 }
 
-.badge{
-  background-color: rgb(194, 188, 188);
-  width: 25%;
-  color: rgb(0, 110, 255);
-  font-size: 30px;
-}
-
 .img{
   color:black;
+}
+
+.fa{
+  color:black
 }
